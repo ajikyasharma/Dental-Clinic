@@ -2199,8 +2199,7 @@ p {
 }
 
 .blog-section .single-blog .blog-img a img {
-   width: 70%; 
-   margin:auto;
+   width: 100%; 
   -webkit-transition: all 0.3s ease-out 0s; 
    transition: all 0.3s ease-out 0s;
 }
